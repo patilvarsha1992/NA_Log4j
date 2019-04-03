@@ -1,0 +1,10 @@
+2019-03-29 17:58:03,451  INFO [main] GenerateLog4jFile:33 - ****************************** Starting test cases execution  *****************************************
+2019-03-29 17:58:05,894  INFO [main] GenerateLog4jFile:37 - launching chrome broswer
+2019-03-29 17:58:07,696  INFO [main] GenerateLog4jFile:44 - entering application URL
+2019-03-29 17:58:07,697  WARN [main] GenerateLog4jFile:45 - Hey this just a warning message
+2019-03-29 17:58:07,697 FATAL [main] GenerateLog4jFile:46 - hey this is just fatal error message
+2019-03-29 17:58:07,697 DEBUG [main] GenerateLog4jFile:47 - this is debug message
+2019-03-29 17:58:07,706  INFO [main] GenerateLog4jFile:53 - ****************************** starting test case *****************************************
+2019-03-29 17:58:07,706  INFO [main] GenerateLog4jFile:54 - ****************************** freeCrmTitleTest *****************************************
+2019-03-29 17:58:07,975  INFO [main] GenerateLog4jFile:57 - login page title is--->Free CRM software in the cloud
+2019-03-29 17:58:08,151  INFO [main] GenerateLog4jFile:83 - ****************************** Browser is closed *****************************************
